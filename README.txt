@@ -8,5 +8,7 @@ Result = 100
 
 $ ./master 646.txt
 Result = 646
-
 You can also check the adder_log.txt file for the results.
+
+I pushed all these files in to  github.
+/classes/OS/gorantla/gorantla.3/log
