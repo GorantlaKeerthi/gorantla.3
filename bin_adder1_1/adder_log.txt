@@ -1,0 +1,29 @@
+nlines=19 at time 0 s 0 ns
+MASTER: Child 30116 has terminated at time 0 s 7070000 ns
+MASTER: Child 30117 has terminated at time 0 s 7080000 ns
+MASTER: Child 30118 has terminated at time 0 s 13090000 ns
+MASTER: Child 30119 has terminated at time 0 s 13100000 ns
+MASTER: Child 30120 has terminated at time 0 s 18980000 ns
+MASTER: Child 30121 has terminated at time 0 s 19390000 ns
+MASTER: Child 30122 has terminated at time 0 s 25080000 ns
+MASTER: Child 30123 has terminated at time 0 s 25310000 ns
+MASTER: Child 30124 has terminated at time 0 s 32020000 ns
+nlines=9 at time 0 s 32020000 ns
+MASTER: Child 30125 has terminated at time 0 s 38200000 ns
+MASTER: Child 30126 has terminated at time 0 s 38210000 ns
+MASTER: Child 30127 has terminated at time 0 s 44270000 ns
+MASTER: Child 30128 has terminated at time 0 s 44650000 ns
+nlines=4 at time 0 s 44650000 ns
+MASTER: Child 30129 has terminated at time 0 s 50780000 ns
+MASTER: Child 30130 has terminated at time 0 s 51090000 ns
+nlines=2 at time 0 s 51090000 ns
+MASTER: Child 30131 has terminated at time 0 s 58420000 ns
+Simulation done, 1 children done at time 0 s 58420000 ns
+Result = 646
+4260000 ns
+PID=30129 xx=0 yy=2 at time 0 s 50610000 ns
+PID=30129 result=238 at time 0 s 50610000 ns
+PID=30130 xx=2 yy=2 at time 0 s 50770000 ns
+PID=30130 result=408 at time 0 s 50770000 ns
+PID=30131 xx=0 yy=2 at time 0 s 58040000 ns
+PID=30131 result=646 at time 0 s 58040000 ns

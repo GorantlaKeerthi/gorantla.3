@@ -1,0 +1,28 @@
+n/log(n) | nlines=19 at time 0 s 0 ns
+MASTER: Child 30333 has terminated at time 0 s 6290000 ns
+MASTER: Child 30332 has terminated at time 0 s 6300000 ns
+MASTER: Child 30334 has terminated at time 0 s 12210000 ns
+MASTER: Child 30335 has terminated at time 0 s 12220000 ns
+MASTER: Child 30336 has terminated at time 0 s 17940000 ns
+MASTER: Child 30337 has terminated at time 0 s 18410000 ns
+MASTER: Child 30338 has terminated at time 0 s 23750000 ns
+MASTER: Child 30339 has terminated at time 0 s 24910000 ns
+MASTER: Child 30340 has terminated at time 0 s 29830000 ns
+n/log(n) | nlines=9 at time 0 s 29830000 ns
+nlines=9 at time 0 s 29830000 ns
+MASTER: Child 30341 has terminated at time 0 s 35890000 ns
+MASTER: Child 30342 has terminated at time 0 s 36380000 ns
+MASTER: Child 30343 has terminated at time 0 s 42520000 ns
+MASTER: Child 30344 has terminated at time 0 s 42890000 ns
+nlines=4 at time 0 s 42890000 ns
+MASTER: Child 30345 has terminated at time 0 s 48840000 ns
+MASTER: Child 30346 has terminated at time 0 s 49210000 ns
+nlines=2 at time 0 s 49210000 ns
+MASTER: Child 30347 has terminated at time 0 s 56150000 ns
+Simulation done, 1 children done at time 0 s 56150000 ns
+Result = 646
+PID=30345 result=238 at time 0 s 48670000 ns
+PID=30346 xx=2 yy=2 at time 0 s 48830000 ns
+PID=30346 result=408 at time 0 s 48830000 ns
+PID=30347 xx=0 yy=2 at time 0 s 55790000 ns
+PID=30347 result=646 at time 0 s 55790000 ns
